@@ -1,0 +1,1528 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o (__divdi3)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o (__udivdi3)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o (__umoddi3)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o) (__clz_tab)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-atexit.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o (atexit)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fini.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o (__libc_fini_array)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-init.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o (__libc_init_array)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o (printf)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+                              ./application/main.o (srand)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o (errno)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sysisatty.o)
+                              ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o (isatty)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-atexit.o) (__register_exitproc)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__call_atexit.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o) (__assert_func)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o) (__sinit)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fprintf.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o) (fiprintf)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (_fwalk)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (_global_impure_ptr)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-malloc.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o) (malloc)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (memset)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o) (_free_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (_malloc_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (__sread)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o) (_write_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-abort.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o) (abort)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o) (_close_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (_fflush_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o) (_lseek_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (memcpy)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove-stub.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (memmove)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o) (_read_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-abort.o) (raise)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signalr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o) (_kill_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+/home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+                              /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .text.clock_getres
+                0x0000000000000000       0x22 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .debug_info    0x0000000000000000      0x13a ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .debug_abbrev  0x0000000000000000       0xbe ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .debug_line    0x0000000000000000      0x25d ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .debug_str     0x0000000000000000      0x25b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .text.clock_gettime
+                0x0000000000000000       0x32 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .debug_info    0x0000000000000000      0x191 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .debug_abbrev  0x0000000000000000       0xf0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .debug_loc     0x0000000000000000       0x6d ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .debug_line    0x0000000000000000      0x212 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .debug_str     0x0000000000000000      0x278 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .debug_frame   0x0000000000000000       0x30 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .text.clock_settime
+                0x0000000000000000        0x4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .debug_info    0x0000000000000000      0x115 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .debug_abbrev  0x0000000000000000       0xab ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .debug_line    0x0000000000000000      0x19e ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .debug_str     0x0000000000000000      0x239 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .text._execve  0x0000000000000000        0xe ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .debug_info    0x0000000000000000       0xd9 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .debug_abbrev  0x0000000000000000       0x97 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .debug_line    0x0000000000000000       0x91 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .debug_str     0x0000000000000000      0x1ee ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .sbss.__dso_handle
+                0x0000000000000000        0x4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .text._fork    0x0000000000000000        0xe ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .debug_info    0x0000000000000000       0x9c ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .debug_abbrev  0x0000000000000000       0x59 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .debug_line    0x0000000000000000       0x8f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .debug_str     0x0000000000000000      0x1e0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .text._gettimeofday
+                0x0000000000000000       0x94 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .debug_info    0x0000000000000000      0x2c9 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .debug_abbrev  0x0000000000000000      0x172 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .debug_loc     0x0000000000000000       0xd5 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .debug_ranges  0x0000000000000000       0x48 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .debug_line    0x0000000000000000      0x409 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .debug_str     0x0000000000000000      0x2ad ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .debug_frame   0x0000000000000000       0x3c ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .riscv.attributes
+                0x0000000000000000       0x2f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .text._link    0x0000000000000000        0xe ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .debug_info    0x0000000000000000       0xc1 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .debug_abbrev  0x0000000000000000       0x84 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .debug_line    0x0000000000000000       0x8f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .debug_str     0x0000000000000000      0x1e0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .text._open    0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .debug_info    0x0000000000000000       0xd4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .debug_abbrev  0x0000000000000000       0x8b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .debug_line    0x0000000000000000       0x8f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .debug_str     0x0000000000000000      0x1f0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .text.getchar  0x0000000000000000       0x16 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .text._stat    0x0000000000000000        0x8 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .debug_info    0x0000000000000000      0x2c2 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .debug_line    0x0000000000000000      0x1b1 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .debug_str     0x0000000000000000      0x32b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .text._times   0x0000000000000000       0x6c ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .bss.t0.0      0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .debug_info    0x0000000000000000      0x1bc ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .debug_abbrev  0x0000000000000000       0xfd ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .debug_loc     0x0000000000000000       0x9f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .debug_line    0x0000000000000000      0x282 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .debug_str     0x0000000000000000      0x26a ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .debug_frame   0x0000000000000000       0x38 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .text._unlink  0x0000000000000000        0x4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .debug_info    0x0000000000000000       0xac ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .debug_abbrev  0x0000000000000000       0x67 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .debug_line    0x0000000000000000       0x81 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .debug_str     0x0000000000000000      0x1e3 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .text._wait    0x0000000000000000        0xe ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .debug_info    0x0000000000000000       0xb7 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .debug_abbrev  0x0000000000000000       0x75 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .debug_line    0x0000000000000000       0x91 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .debug_str     0x0000000000000000      0x1e7 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .comment       0x0000000000000000       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .text.putchar  0x0000000000000000       0x38 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .text.trap     0x0000000000000000       0xc0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .text.irq      0x0000000000000000       0x6c ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .debug_line    0x0000000000000000       0xcf ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .debug_info    0x0000000000000000       0x22 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .debug_abbrev  0x0000000000000000       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .debug_str     0x0000000000000000       0x98 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .debug_ranges  0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .riscv.attributes
+                0x0000000000000000       0x2d ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_enable_output
+                0x0000000000000000       0x1c ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_enable_input
+                0x0000000000000000       0x1c ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_write
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_toggle
+                0x0000000000000000       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_read
+                0x0000000000000000        0xc ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_set_pue
+                0x0000000000000000       0x16 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_set_ds
+                0x0000000000000000       0x16 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_set_outxor
+                0x0000000000000000       0x16 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_enable_interrupt
+                0x0000000000000000       0x46 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_disable_interrupt
+                0x0000000000000000       0x50 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text.gpio_clear_interrupt
+                0x0000000000000000       0x46 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .text.uart_config_stopbit
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .text.uart_set_tx_watermark
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .text.uart_enable_txint
+                0x0000000000000000       0x14 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .text.uart_disable_txint
+                0x0000000000000000       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .text.uart_set_rx_watermark
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .text.uart_enable_rxint
+                0x0000000000000000       0x14 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .text.uart_disable_rxint
+                0x0000000000000000       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .text.delay_1ms
+                0x0000000000000000       0x86 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .text          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .data          0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .bss           0x0000000000000000        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .text.Exception_Register_EXC
+                0x0000000000000000       0x2a ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .text.Exception_Get_EXC
+                0x0000000000000000       0x30 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .text.SystemBannerPrint
+                0x0000000000000000       0x6c ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .text.ECLIC_Init
+                0x0000000000000000       0x36 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .text.ECLIC_Register_IRQ
+                0x0000000000000000      0x1c6 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .text          0x0000000000000000        0x0 ./application/main.o
+ .data          0x0000000000000000        0x0 ./application/main.o
+ .bss           0x0000000000000000        0x0 ./application/main.o
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .text.__divdi3
+                0x0000000000000000      0x3a2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .debug_info    0x0000000000000000      0x7f6 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x0000000000000000      0x1b5 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .debug_loc     0x0000000000000000      0x92f /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .debug_ranges  0x0000000000000000      0x108 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .debug_line    0x0000000000000000      0x820 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .debug_str     0x0000000000000000      0x361 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000000       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .eh_frame      0x0000000000000000       0x28 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_divdi3.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000000       0x28 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .text.__umoddi3
+                0x0000000000000000      0x340 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_info    0x0000000000000000      0x81a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x0000000000000000      0x1b9 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_loc     0x0000000000000000      0x988 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_ranges  0x0000000000000000       0xe8 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_line    0x0000000000000000      0x827 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .debug_str     0x0000000000000000      0x362 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .comment       0x0000000000000000       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .eh_frame      0x0000000000000000       0x28 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_umoddi3.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x42 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x2c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000      0x10a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sysisatty.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sysisatty.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sysisatty.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+ .sdata.__atexit_dummy
+                0x0000000000000000        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xc8 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+ .text.__assert
+                0x0000000000000000       0x10 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x10 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x18 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x18 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fprintf.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fprintf.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fprintf.o)
+ .text._fprintf_r
+                0x0000000000000000       0x20 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fprintf.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x62 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-malloc.o)
+ .text.free     0x0000000000000000       0x12 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x2c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x16 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x14 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x2c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x314 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000000000       0xdc /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove-stub.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove-stub.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove-stub.o)
+ .text.memmove  0x0000000000000000       0x4a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove-stub.o)
+ .comment       0x0000000000000000       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove-stub.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove-stub.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x96 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .comment       0x0000000000000000       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x3e /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x46 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x5a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x14 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000       0x10 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x12 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x14 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .comment       0x0000000000000000       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .riscv.attributes
+                0x0000000000000000       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ilm              0x0000000080000000 0x0000000000010000 axr !w
+ram              0x0000000090000000 0x0000000000010000 axw !r
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_getres.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_gettime.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/clock_settime.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/execve.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fork.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/gettimeofday.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/link.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/open.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/stat.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/times.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/unlink.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/wait.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc_s.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+LOAD ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+LOAD ./application/main.o
+LOAD /home/tptuser/NucleiStudio_workspace/hello_with_dsp_and_nn_sdk_0.4.0/nuclei_sdk/NMSIS/Library/NN/GCC/libnmsis_nn_rv32imac.a
+LOAD /home/tptuser/NucleiStudio_workspace/hello_with_dsp_and_nn_sdk_0.4.0/nuclei_sdk/NMSIS/Library/DSP/GCC/libnmsis_dsp_rv32imac.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libstdc++.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libstdc++.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libm_nano.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libc_nano.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a
+START GROUP
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libc_nano.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libc_nano.a
+LOAD /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libnosys.a
+END GROUP
+                0x0000000000000800                PROVIDE (__STACK_SIZE = 0x800)
+                0x0000000000000800                PROVIDE (__HEAP_SIZE = 0x800)
+                0x0000000000000001                PROVIDE (__SMP_CPU_CNT = 0x1)
+                0x0000000000000800                __TOT_STACK_SIZE = (__STACK_SIZE * __SMP_CPU_CNT)
+
+.init           0x0000000080000000      0x2b8
+ *(.vtable)
+ .vtable        0x0000000080000000      0x114 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+                0x0000000080000000                vector_base
+ *(.vtable_s)
+ *(SORT_NONE(.init))
+ *fill*         0x0000000080000114       0x2c 
+ .init          0x0000000080000140      0x176 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+                0x0000000080000140                _start
+                0x0000000080000218                _start_premain
+                0x0000000080000280                early_exc_entry
+ .init          0x00000000800002b6        0x2 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x00000000800002b6                __sync_harts
+                0x00000000800002b8                . = ALIGN (0x4)
+ *fill*         0x00000000800002b8        0x0 
+
+.text           0x00000000800002c0     0x20fe
+ *(.text.unlikely .text.unlikely.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x00000000800002c0       0xa6 ./application/main.o
+                0x00000000800002c0                main
+ *(.text .text.*)
+ .text._close   0x0000000080000366        0xa ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+                0x0000000080000366                _close
+ .text._exit    0x0000000080000370        0xa ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+                0x0000000080000370                _exit
+ .text._fstat   0x000000008000037a       0x1a ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+                0x000000008000037a                _fstat
+ .text._getpid  0x0000000080000394        0x4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+                0x0000000080000394                _getpid
+ .text._isatty  0x0000000080000398        0x4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+                0x0000000080000398                _isatty
+ .text._kill    0x000000008000039c        0xa ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+                0x000000008000039c                _kill
+ .text._lseek   0x00000000800003a6        0x4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+                0x00000000800003a6                _lseek
+ .text._read    0x00000000800003aa       0x4a ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+                0x00000000800003aa                _read
+ .text._sbrk    0x00000000800003f4       0x2c ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+                0x00000000800003f4                _sbrk
+ .text._write   0x0000000080000420       0x64 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+                0x0000000080000420                _write
+ *fill*         0x0000000080000484       0x3c 
+ .text.trap     0x00000000800004c0       0x7c ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+                0x00000000800004c0                exc_entry
+ *fill*         0x000000008000053c        0x0 
+ .text.irq      0x000000008000053c       0x76 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+                0x000000008000053c                irq_entry
+                0x00000000800005ae                default_intexc_handler
+ .text.gpio_iof_config
+                0x00000000800005b2       0x4a ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+                0x00000000800005b2                gpio_iof_config
+ .text.uart_init
+                0x00000000800005fc       0x2c ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+                0x00000000800005fc                uart_init
+ .text.uart_write
+                0x0000000080000628       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+                0x0000000080000628                uart_write
+ .text.uart_read
+                0x000000008000063a       0x14 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+                0x000000008000063a                uart_read
+ .text.measure_cpu_freq
+                0x000000008000064e       0xaa ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+                0x000000008000064e                measure_cpu_freq
+ .text.get_cpu_freq
+                0x00000000800006f8       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+                0x00000000800006f8                get_cpu_freq
+ .text.simulation_exit
+                0x000000008000070a       0x36 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+                0x000000008000070a                simulation_exit
+ .text.SystemInit
+                0x0000000080000740       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x0000000080000740                SystemInit
+ .text.Exception_DumpFrame
+                0x0000000080000752       0x7c ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x0000000080000752                Exception_DumpFrame
+ .text.system_default_exception_handler
+                0x00000000800007ce       0x4c ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .text.core_exception_handler
+                0x000000008000081a       0x50 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x000000008000081a                core_exception_handler
+ .text._premain_init
+                0x000000008000086a      0x12a ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x000000008000086a                _premain_init
+ .text._postmain_fini
+                0x0000000080000994        0x2 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x0000000080000994                _postmain_fini
+ .text._init    0x0000000080000996        0x2 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x0000000080000996                _init
+ .text._fini    0x0000000080000998        0x2 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x0000000080000998                _fini
+ .text.print_misa
+                0x000000008000099a      0x24e ./application/main.o
+                0x000000008000099a                print_misa
+ .text.__udivdi3
+                0x0000000080000be8      0x358 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+                0x0000000080000be8                __udivdi3
+ .text.atexit   0x0000000080000f40        0xa /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-atexit.o)
+                0x0000000080000f40                atexit
+ .text.__libc_fini_array
+                0x0000000080000f4a       0x36 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fini.o)
+                0x0000000080000f4a                __libc_fini_array
+ .text.__libc_init_array
+                0x0000000080000f80       0x5e /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-init.o)
+                0x0000000080000f80                __libc_init_array
+ .text.printf   0x0000000080000fde       0x3c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+                0x0000000080000fde                printf
+                0x0000000080000fde                iprintf
+ .text.srand    0x000000008000101a       0x74 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+                0x000000008000101a                srand
+ .text.rand     0x000000008000108e       0xa2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+                0x000000008000108e                rand
+ .text.isatty   0x0000000080001130        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sysisatty.o)
+                0x0000000080001130                isatty
+ .text.__register_exitproc
+                0x0000000080001134       0x74 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+                0x0000000080001134                __register_exitproc
+ .text.__assert_func
+                0x00000000800011a8       0x3c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+                0x00000000800011a8                __assert_func
+ .text.std      0x00000000800011e4       0x68 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x000000008000124c        0xa /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x000000008000124c                _cleanup_r
+ .text.__sfmoreglue
+                0x0000000080001256       0x44 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x0000000080001256                __sfmoreglue
+ .text.__sinit  0x000000008000129a       0x66 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x000000008000129a                __sinit
+ .text.__sfp    0x0000000080001300       0x98 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x0000000080001300                __sfp
+ .text.fprintf  0x0000000080001398       0x28 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fprintf.o)
+                0x0000000080001398                fprintf
+                0x0000000080001398                fiprintf
+ .text._fwalk_reent
+                0x00000000800013c0       0x6a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+                0x00000000800013c0                _fwalk_reent
+ .text.malloc   0x000000008000142a        0xc /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-malloc.o)
+                0x000000008000142a                malloc
+ .text          0x0000000080001436       0xa8 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+                0x0000000080001436                memset
+ .text._free_r  0x00000000800014de       0xa2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+                0x00000000800014de                _free_r
+ .text._malloc_r
+                0x0000000080001580       0xd6 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000080001580                _malloc_r
+ .text.__sfputc_r
+                0x0000000080001656       0x28 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x000000008000167e       0x42 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x000000008000167e                __sfputs_r
+ .text._vfprintf_r
+                0x00000000800016c0      0x28c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000800016c0                _vfiprintf_r
+                0x00000000800016c0                _vfprintf_r
+ .text._printf_common
+                0x000000008000194c      0x10c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000000008000194c                _printf_common
+ .text._printf_i
+                0x0000000080001a58      0x26c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000080001a58                _printf_i
+ .text._sbrk_r  0x0000000080001cc4       0x28 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+                0x0000000080001cc4                _sbrk_r
+ .text.__sread  0x0000000080001cec       0x30 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                0x0000000080001cec                __sread
+ .text.__swrite
+                0x0000000080001d1c       0x4e /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                0x0000000080001d1c                __swrite
+ .text.__sseek  0x0000000080001d6a       0x36 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                0x0000000080001d6a                __sseek
+ .text.__sclose
+                0x0000000080001da0        0x6 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                0x0000000080001da0                __sclose
+ .text.__swbuf_r
+                0x0000000080001da6       0xb6 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+                0x0000000080001da6                __swbuf_r
+ .text._write_r
+                0x0000000080001e5c       0x2c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+                0x0000000080001e5c                _write_r
+ .text.__swsetup_r
+                0x0000000080001e88      0x102 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+                0x0000000080001e88                __swsetup_r
+ .text.abort    0x0000000080001f8a        0xe /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-abort.o)
+                0x0000000080001f8a                abort
+ .text._close_r
+                0x0000000080001f98       0x28 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+                0x0000000080001f98                _close_r
+ .text.__sflush_r
+                0x0000000080001fc0      0x148 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+                0x0000000080001fc0                __sflush_r
+ .text._fflush_r
+                0x0000000080002108       0x5a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+                0x0000000080002108                _fflush_r
+ .text._lseek_r
+                0x0000000080002162       0x2c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+                0x0000000080002162                _lseek_r
+ .text.__swhatbuf_r
+                0x000000008000218e       0x5a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+                0x000000008000218e                __swhatbuf_r
+ .text.__smakebuf_r
+                0x00000000800021e8       0x9e /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+                0x00000000800021e8                __smakebuf_r
+ .text.memchr   0x0000000080002286       0x1a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+                0x0000000080002286                memchr
+ .text.__malloc_lock
+                0x00000000800022a0        0x2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+                0x00000000800022a0                __malloc_lock
+ .text.__malloc_unlock
+                0x00000000800022a2        0x2 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+                0x00000000800022a2                __malloc_unlock
+ .text._read_r  0x00000000800022a4       0x2c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+                0x00000000800022a4                _read_r
+ .text._raise_r
+                0x00000000800022d0       0x62 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+                0x00000000800022d0                _raise_r
+ .text.raise    0x0000000080002332        0xc /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+                0x0000000080002332                raise
+ .text._kill_r  0x000000008000233e       0x2a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signalr.o)
+                0x000000008000233e                _kill_r
+ .text._getpid_r
+                0x0000000080002368        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signalr.o)
+                0x0000000080002368                _getpid_r
+ .text._fstat_r
+                0x000000008000236c       0x2a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+                0x000000008000236c                _fstat_r
+ .text._isatty_r
+                0x0000000080002396       0x28 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+                0x0000000080002396                _isatty_r
+ *(.gnu.linkonce.t.*)
+
+.rela.dyn       0x00000000800023c0        0x0
+ .rela.text._sbrk
+                0x00000000800023c0        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .rela.sdata.curbrk.0
+                0x00000000800023c0        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .rela.init     0x00000000800023c0        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .rela.text.__libc_fini_array
+                0x00000000800023c0        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .rela.text.__libc_init_array
+                0x00000000800023c0        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .rela.text.__register_exitproc
+                0x00000000800023c0        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .rela.text._vfprintf_r
+                0x00000000800023c0        0x0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+
+.fini
+ *(SORT_NONE(.fini))
+
+.preinit_array  0x00000000800023be        0x0
+                0x00000000800023be                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x00000000800023be                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000000800023be        0x0
+                0x00000000800023be                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                0x00000000800023be                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000000800023be        0x0
+                0x00000000800023be                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                0x00000000800023be                PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                [!provide]                        PROVIDE (_ilm_lma = LOADADDR (.text))
+                [!provide]                        PROVIDE (_ilm = ADDR (.text))
+                [!provide]                        PROVIDE (_eilm = .)
+                0x00000000800002c0                PROVIDE (_text_lma = LOADADDR (.text))
+                0x00000000800002c0                PROVIDE (_text = ADDR (.text))
+                0x00000000800023be                PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.data           0x0000000090000000      0x558
+ *(.data.ctest*)
+ *(.data .data.*)
+ .data.impure_data
+                0x0000000090000000       0x60 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ *(.gnu.linkonce.d.*)
+                0x0000000090000060                . = ALIGN (0x8)
+                0x0000000090000860                PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.* .sdata*)
+ .sdata.curbrk.0
+                0x0000000090000060        0x4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .sdata.SystemCoreClock
+                0x0000000090000064        0x4 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x0000000090000064                SystemCoreClock
+ .sdata._impure_ptr
+                0x0000000090000068        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+                0x0000000090000068                _impure_ptr
+ *(.gnu.linkonce.s.*)
+                0x0000000090000070                . = ALIGN (0x8)
+ *fill*         0x000000009000006c        0x4 
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+ .srodata._global_impure_ptr
+                0x0000000090000070        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+                0x0000000090000070                _global_impure_ptr
+ *(.rdata)
+ *(.rodata .rodata.*)
+ .rodata.Exception_DumpFrame.str1.4
+                0x0000000090000074       0xe2 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ *fill*         0x0000000090000156        0x2 
+ .rodata.system_default_exception_handler.str1.4
+                0x0000000090000158       0x5e ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ *fill*         0x00000000900001b6        0x2 
+ .rodata.SystemBannerPrint.str1.4
+                0x00000000900001b8       0x79 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ *fill*         0x0000000090000231        0x3 
+ .rodata.print_misa.str1.4
+                0x0000000090000234        0xd ./application/main.o
+ *fill*         0x0000000090000241        0x3 
+ .rodata.main.str1.4
+                0x0000000090000244       0x70 ./application/main.o
+ .rodata.__clz_tab
+                0x00000000900002b4      0x100 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+                0x00000000900002b4                __clz_tab
+ .rodata.srand.str1.4
+                0x00000000900003b4       0x6a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+ *fill*         0x000000009000041e        0x2 
+ .rodata.__assert_func.str1.4
+                0x0000000090000420       0x3f /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+                                         0x43 (size before relaxing)
+ *fill*         0x000000009000045f        0x1 
+ .rodata.__sf_fake_stderr
+                0x0000000090000460       0x20 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x0000000090000460                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x0000000090000480       0x20 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x0000000090000480                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x00000000900004a0       0x20 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x00000000900004a0                __sf_fake_stdout
+ .rodata._vfprintf_r.str1.4
+                0x00000000900004c0       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ *fill*         0x00000000900004d3        0x1 
+ .rodata._printf_i.str1.4
+                0x00000000900004d4       0x25 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x00000000900004f9        0x3 
+ .rodata._printf_i
+                0x00000000900004fc       0x58 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.gnu.linkonce.r.*)
+                0x0000000090000554                . = ALIGN (0x4)
+                0x0000000090000554                __rt_init_start = .
+ *(SORT_BY_NAME(.rti_fn*))
+                0x0000000090000554                __rt_init_end = .
+                0x0000000090000554                . = ALIGN (0x4)
+                0x0000000090000554                __fsymtab_start = .
+ *(FSymTab)
+                0x0000000090000554                __fsymtab_end = .
+                0x0000000090000554                . = ALIGN (0x4)
+                0x0000000090000554                __vsymtab_start = .
+ *(VSymTab)
+                0x0000000090000554                __vsymtab_end = .
+                0x0000000090000558                . = ALIGN (0x8)
+ *fill*         0x0000000090000554        0x4 
+
+.tdata          0x0000000090000558        0x0
+                0x0000000090000558                PROVIDE (__tls_base = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+                0x0000000090000000                PROVIDE (_data_lma = LOADADDR (.data))
+                0x0000000090000000                PROVIDE (_data = ADDR (.data))
+                0x0000000090000558                PROVIDE (_edata = .)
+                [!provide]                        PROVIDE (edata = .)
+                [!provide]                        PROVIDE (_fbss = .)
+                0x0000000090000558                PROVIDE (__bss_start = .)
+
+.tbss           0x0000000090000558        0x0
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+                [!provide]                        PROVIDE (__tls_end = .)
+
+.tbss_space     0x0000000090000558        0x0
+                0x0000000090000558                . = (. + SIZEOF (.tbss))
+
+.bss            0x0000000090000558      0x114
+ *(.sbss*)
+ .sbss.errno    0x0000000090000558        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+                0x0000000090000558                errno
+ .sbss._global_atexit
+                0x000000009000055c        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__call_atexit.o)
+                0x000000009000055c                _global_atexit
+ .sbss.__malloc_free_list
+                0x0000000090000560        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000090000560                __malloc_free_list
+ .sbss.__malloc_sbrk_start
+                0x0000000090000564        0x4 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000090000564                __malloc_sbrk_start
+ *(.gnu.linkonce.sb.*)
+ *(.bss .bss.*)
+ .bss.SystemExceptionHandlers
+                0x0000000090000568       0x44 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .bss.SystemIRegionInfo
+                0x00000000900005ac       0x14 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                0x00000000900005ac                SystemIRegionInfo
+ .bss.misa_chars.0
+                0x00000000900005c0       0x1e ./application/main.o
+ *fill*         0x00000000900005de        0x2 
+ .bss._global_atexit0
+                0x00000000900005e0       0x8c /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x000000009000066c                . = ALIGN (0x4)
+                0x000000009000066c                PROVIDE (_end = .)
+                [!provide]                        PROVIDE (end = .)
+
+.heap           0x0000000090000670      0x800
+                0x0000000090000670                . = ALIGN (0x10)
+                0x0000000090000670                PROVIDE (__heap_start = .)
+                0x0000000090000e70                . = (. + __HEAP_SIZE)
+ *fill*         0x0000000090000670      0x800 
+                0x0000000090000e70                . = ALIGN (0x10)
+                [!provide]                        PROVIDE (__heap_limit = .)
+
+.stack          0x000000009000f800      0x800 load address 0x0000000090000e70
+                0x000000009000f800                . = ALIGN (0x10)
+                [!provide]                        PROVIDE (_heap_end = .)
+                0x000000009000f800                PROVIDE (__heap_end = .)
+                [!provide]                        PROVIDE (__StackLimit = .)
+                [!provide]                        PROVIDE (__StackBottom = .)
+                0x0000000090010000                . = (. + __TOT_STACK_SIZE)
+ *fill*         0x000000009000f800      0x800 
+                0x0000000090010000                . = ALIGN (0x10)
+                [!provide]                        PROVIDE (__StackTop = .)
+                0x0000000090010000                PROVIDE (_sp = .)
+OUTPUT(hello_with_dsp_and_nn_sdk_0.4.0.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0x43e3
+ .debug_info    0x0000000000000000       0xac ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .debug_info    0x00000000000000ac      0x10e ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .debug_info    0x00000000000001ba      0x2c8 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .debug_info    0x0000000000000482       0x90 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .debug_info    0x0000000000000512       0xa0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .debug_info    0x00000000000005b2       0xbb ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .debug_info    0x000000000000066d       0xbd ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .debug_info    0x000000000000072a      0x245 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .debug_info    0x000000000000096f       0xea ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .debug_info    0x0000000000000a59      0x2d4 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .debug_info    0x0000000000000d2d       0x22 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .debug_info    0x0000000000000d4f       0x26 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+ .debug_info    0x0000000000000d75      0x54a ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .debug_info    0x00000000000012bf      0x38d ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .debug_info    0x000000000000164c      0x8d8 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .debug_info    0x0000000000001f24     0x1556 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .debug_info    0x000000000000347a      0x6c4 ./application/main.o
+ .debug_info    0x0000000000003b3e      0x7c0 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_info    0x00000000000042fe       0xe5 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+
+.debug_abbrev   0x0000000000000000     0x1546
+ .debug_abbrev  0x0000000000000000       0x6a ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .debug_abbrev  0x000000000000006a       0xcd ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .debug_abbrev  0x0000000000000137       0xc9 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .debug_abbrev  0x0000000000000200       0x46 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .debug_abbrev  0x0000000000000246       0x57 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .debug_abbrev  0x000000000000029d       0x7b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .debug_abbrev  0x0000000000000318       0x68 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .debug_abbrev  0x0000000000000380      0x169 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .debug_abbrev  0x00000000000004e9       0xa8 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .debug_abbrev  0x0000000000000591      0x178 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .debug_abbrev  0x0000000000000709       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .debug_abbrev  0x000000000000071b       0x14 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+ .debug_abbrev  0x000000000000072f       0xf2 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .debug_abbrev  0x0000000000000821      0x138 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .debug_abbrev  0x0000000000000959      0x2f0 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .debug_abbrev  0x0000000000000c49      0x4ef ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .debug_abbrev  0x0000000000001138      0x201 ./application/main.o
+ .debug_abbrev  0x0000000000001339      0x19d /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000014d6       0x70 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+
+.debug_loc      0x0000000000000000     0x2a8e
+ .debug_loc     0x0000000000000000       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .debug_loc     0x0000000000000021       0x2e ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .debug_loc     0x000000000000004f       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .debug_loc     0x0000000000000070       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .debug_loc     0x0000000000000091       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .debug_loc     0x00000000000000b2       0xd0 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .debug_loc     0x0000000000000182       0x21 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .debug_loc     0x00000000000001a3      0x134 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .debug_loc     0x00000000000002d7      0x7a8 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .debug_loc     0x0000000000000a7f      0x37b ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .debug_loc     0x0000000000000dfa      0x33c ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .debug_loc     0x0000000000001136      0xaa5 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .debug_loc     0x0000000000001bdb      0x2d6 ./application/main.o
+ .debug_loc     0x0000000000001eb1      0xbdd /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+
+.debug_aranges  0x0000000000000000      0x390
+ .debug_aranges
+                0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .debug_aranges
+                0x0000000000000020       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .debug_aranges
+                0x0000000000000040       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .debug_aranges
+                0x0000000000000060       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .debug_aranges
+                0x0000000000000080       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .debug_aranges
+                0x00000000000000a0       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .debug_aranges
+                0x00000000000000c0       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .debug_aranges
+                0x00000000000000e0       0x28 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .debug_aranges
+                0x0000000000000108       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .debug_aranges
+                0x0000000000000128       0x28 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .debug_aranges
+                0x0000000000000150       0x28 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .debug_aranges
+                0x0000000000000178       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+ .debug_aranges
+                0x0000000000000198       0x78 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .debug_aranges
+                0x0000000000000210       0x68 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .debug_aranges
+                0x0000000000000278       0x38 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .debug_aranges
+                0x00000000000002b0       0x80 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .debug_aranges
+                0x0000000000000330       0x28 ./application/main.o
+ .debug_aranges
+                0x0000000000000358       0x20 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000378       0x18 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+
+.debug_ranges   0x0000000000000000      0x658
+ .debug_ranges  0x0000000000000000       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .debug_ranges  0x0000000000000010       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .debug_ranges  0x0000000000000020       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .debug_ranges  0x0000000000000030       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .debug_ranges  0x0000000000000040       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .debug_ranges  0x0000000000000050       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .debug_ranges  0x0000000000000060       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .debug_ranges  0x0000000000000070       0x30 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .debug_ranges  0x00000000000000a0       0x10 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .debug_ranges  0x00000000000000b0       0x38 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .debug_ranges  0x00000000000000e8       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .debug_ranges  0x0000000000000108       0x68 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .debug_ranges  0x0000000000000170       0x58 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .debug_ranges  0x00000000000001c8       0xb8 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .debug_ranges  0x0000000000000280      0x2a0 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .debug_ranges  0x0000000000000520       0x30 ./application/main.o
+ .debug_ranges  0x0000000000000550      0x108 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+
+.debug_line     0x0000000000000000     0x54a0
+ .debug_line    0x0000000000000000       0x90 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .debug_line    0x0000000000000090      0x21c ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .debug_line    0x00000000000002ac      0x1fa ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .debug_line    0x00000000000004a6       0x7f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .debug_line    0x0000000000000525       0x7f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .debug_line    0x00000000000005a4       0x8f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .debug_line    0x0000000000000633       0x7e ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .debug_line    0x00000000000006b1      0x39f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .debug_line    0x0000000000000a50      0x164 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .debug_line    0x0000000000000bb4      0x3dd ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .debug_line    0x0000000000000f91       0xd3 ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .debug_line    0x0000000000001064      0x1fb ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+ .debug_line    0x000000000000125f      0xa0b ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .debug_line    0x0000000000001c6a      0x714 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .debug_line    0x000000000000237e      0xc46 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .debug_line    0x0000000000002fc4     0x1118 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .debug_line    0x00000000000040dc      0xbe8 ./application/main.o
+ .debug_line    0x0000000000004cc4      0x769 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .debug_line    0x000000000000542d       0x73 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+
+.debug_str      0x0000000000000000     0x18f7
+ .debug_str     0x0000000000000000      0x19d ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+                                        0x1e2 (size before relaxing)
+ .debug_str     0x000000000000019d       0x63 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+                                        0x205 (size before relaxing)
+ .debug_str     0x0000000000000200      0x13e ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+                                        0x333 (size before relaxing)
+ .debug_str     0x000000000000033e       0x46 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+                                        0x1de (size before relaxing)
+ .debug_str     0x0000000000000384       0x46 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+                                        0x1de (size before relaxing)
+ .debug_str     0x00000000000003ca       0x42 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+                                        0x1e0 (size before relaxing)
+ .debug_str     0x000000000000040c       0x52 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+                                        0x1ef (size before relaxing)
+ .debug_str     0x000000000000045e       0x92 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+                                        0x25b (size before relaxing)
+ .debug_str     0x00000000000004f0       0x70 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+                                        0x208 (size before relaxing)
+ .debug_str     0x0000000000000560       0x59 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+                                        0x266 (size before relaxing)
+ .debug_str     0x00000000000005b9       0x4b ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+                                         0x96 (size before relaxing)
+ .debug_str     0x0000000000000604       0x3e ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+                                         0x97 (size before relaxing)
+ .debug_str     0x0000000000000642      0x23d ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+                                        0x3f6 (size before relaxing)
+ .debug_str     0x000000000000087f      0x135 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+                                        0x350 (size before relaxing)
+ .debug_str     0x00000000000009b4      0x1d4 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+                                        0x3dc (size before relaxing)
+ .debug_str     0x0000000000000b88      0x948 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+                                        0xd0f (size before relaxing)
+ .debug_str     0x00000000000014d0       0xb6 ./application/main.o
+                                        0x2b9 (size before relaxing)
+ .debug_str     0x0000000000001586      0x29a /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+                                        0x362 (size before relaxing)
+ .debug_str     0x0000000000001820       0xd7 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+                                        0x2a9 (size before relaxing)
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x12 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .comment       0x0000000000000012       0x13 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .comment       0x0000000000000012       0x13 ./application/main.o
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-atexit.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fini.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-init.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sysisatty.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fprintf.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-malloc.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-abort.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signalr.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .comment       0x0000000000000012       0x13 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+
+.riscv.attributes
+                0x0000000000000000       0x2f
+ .riscv.attributes
+                0x0000000000000000       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .riscv.attributes
+                0x000000000000002b       0x2f ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .riscv.attributes
+                0x000000000000005a       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .riscv.attributes
+                0x0000000000000085       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .riscv.attributes
+                0x00000000000000b0       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .riscv.attributes
+                0x00000000000000db       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .riscv.attributes
+                0x0000000000000106       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .riscv.attributes
+                0x0000000000000131       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .riscv.attributes
+                0x000000000000015c       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .riscv.attributes
+                0x0000000000000187       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .riscv.attributes
+                0x00000000000001b2       0x2d ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/intexc_demosoc.o
+ .riscv.attributes
+                0x00000000000001df       0x2d ./nuclei_sdk/SoC/demosoc/Common/Source/GCC/startup_demosoc.o
+ .riscv.attributes
+                0x000000000000020c       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .riscv.attributes
+                0x0000000000000237       0x2b ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .riscv.attributes
+                0x0000000000000262       0x2f ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .riscv.attributes
+                0x0000000000000291       0x2f ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .riscv.attributes
+                0x00000000000002c0       0x2f ./application/main.o
+ .riscv.attributes
+                0x00000000000002ef       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_udivdi3.o)
+ .riscv.attributes
+                0x000000000000031a       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/rv32imac/ilp32/libgcc.a(_clz.o)
+ .riscv.attributes
+                0x0000000000000345       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-atexit.o)
+ .riscv.attributes
+                0x0000000000000370       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fini.o)
+ .riscv.attributes
+                0x000000000000039b       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-init.o)
+ .riscv.attributes
+                0x00000000000003c6       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .riscv.attributes
+                0x00000000000003f1       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-rand.o)
+ .riscv.attributes
+                0x000000000000041c       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .riscv.attributes
+                0x0000000000000447       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sysisatty.o)
+ .riscv.attributes
+                0x0000000000000472       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__atexit.o)
+ .riscv.attributes
+                0x000000000000049d       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-__call_atexit.o)
+ .riscv.attributes
+                0x00000000000004c8       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-assert.o)
+ .riscv.attributes
+                0x00000000000004f3       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .riscv.attributes
+                0x000000000000051e       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fprintf.o)
+ .riscv.attributes
+                0x0000000000000549       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .riscv.attributes
+                0x0000000000000574       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .riscv.attributes
+                0x000000000000059f       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-malloc.o)
+ .riscv.attributes
+                0x00000000000005ca       0x29 /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .riscv.attributes
+                0x00000000000005f3       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .riscv.attributes
+                0x000000000000061e       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .riscv.attributes
+                0x0000000000000649       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .riscv.attributes
+                0x0000000000000674       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .riscv.attributes
+                0x000000000000069f       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .riscv.attributes
+                0x00000000000006ca       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .riscv.attributes
+                0x00000000000006f5       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .riscv.attributes
+                0x0000000000000720       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .riscv.attributes
+                0x000000000000074b       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .riscv.attributes
+                0x0000000000000776       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-abort.o)
+ .riscv.attributes
+                0x00000000000007a1       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .riscv.attributes
+                0x00000000000007cc       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .riscv.attributes
+                0x00000000000007f7       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .riscv.attributes
+                0x0000000000000822       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .riscv.attributes
+                0x000000000000084d       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .riscv.attributes
+                0x0000000000000878       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .riscv.attributes
+                0x00000000000008a3       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .riscv.attributes
+                0x00000000000008ce       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signal.o)
+ .riscv.attributes
+                0x00000000000008f9       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-signalr.o)
+ .riscv.attributes
+                0x0000000000000924       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .riscv.attributes
+                0x000000000000094f       0x2b /home/tptuser/Desktop/NucleiStudio_IDE_202212/NucleiStudio/toolchain/gcc/bin/../lib/gcc/riscv-nuclei-elf/10.2.0/../../../../riscv-nuclei-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+
+.debug_frame    0x0000000000000000      0x594
+ .debug_frame   0x0000000000000000       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/close.o
+ .debug_frame   0x0000000000000020       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/exit.o
+ .debug_frame   0x0000000000000040       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/fstat.o
+ .debug_frame   0x0000000000000060       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/getpid.o
+ .debug_frame   0x0000000000000080       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/isatty.o
+ .debug_frame   0x00000000000000a0       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/kill.o
+ .debug_frame   0x00000000000000c0       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/lseek.o
+ .debug_frame   0x00000000000000e0       0x5c ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/read.o
+ .debug_frame   0x000000000000013c       0x20 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/sbrk.o
+ .debug_frame   0x000000000000015c       0x68 ./nuclei_sdk/SoC/demosoc/Common/Source/Stubs/newlib/write.o
+ .debug_frame   0x00000000000001c4       0xd0 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_gpio.o
+ .debug_frame   0x0000000000000294       0xb0 ./nuclei_sdk/SoC/demosoc/Common/Source/Drivers/demosoc_uart.o
+ .debug_frame   0x0000000000000344       0x90 ./nuclei_sdk/SoC/demosoc/Common/Source/demosoc_common.o
+ .debug_frame   0x00000000000003d4      0x178 ./nuclei_sdk/SoC/demosoc/Common/Source/system_demosoc.o
+ .debug_frame   0x000000000000054c       0x48 ./application/main.o

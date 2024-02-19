@@ -1,0 +1,44 @@
+{
+    "name": "AccInst",
+    "id": "33e35f55-181f-4b11-9106-d6a8250e1bef",
+    "projects": [
+        {
+            "id": "64c45ec4-0679-49c0-a953-3a7e8ad2359c",
+            "name": "Normal",
+            "path": "../Normal/Normal.zsproj",
+            "references": []
+        },
+        {
+            "id": "ee0c7d79-53a7-4513-8be7-31d10e976758",
+            "name": "Accelerated",
+            "path": "../Accelerated/Accelerated.zsproj",
+            "references": []
+        }
+    ],
+    "groups": [],
+    "solutionConfigurations": [
+        {
+            "value": "debug",
+            "label": "Debug"
+        },
+        {
+            "value": "release",
+            "label": "Release"
+        },
+        {
+            "value": "minSize",
+            "label": "Min Size"
+        },
+        {
+            "value": "releaseWithDebugInfo",
+            "label": "Release with Debug Information"
+        }
+    ],
+    "solutionPlatforms": [
+        {
+            "value": "risc-v",
+            "label": "RISC-V"
+        }
+    ],
+    "projectConfigurationPlatforms": []
+}

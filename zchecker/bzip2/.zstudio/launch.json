@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to understand related properties
+    // Hover to see descriptions of existing properties
+    // For more information, please visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [{
+        "name": "Debug on Board with GDB",
+        "id": "gdbBoard",
+        "connectType": "board",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${executablePath}",
+        "args": [
+            "${programArgs}"
+        ],
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "miDebuggerPath": "${debuggerPath}",
+        "miDebuggerArgs": "-ex 'target remote ${host}:${port}' -ex 'monitor reset init' -ex 'load ${executablePath}'",
+        "setupCommands": [
+            {
+                "description": "Enable pretty-printing for gdb",
+                "text": "-enable-pretty-printing",
+                "ignoreFailures": true
+            }
+        ]
+    },{
+        "name": "Debug on Board with ZDB",
+        "id": "zdbBoard",
+        "connectType": "board",
+        "type": "zdb-vscode",
+        "request": "launch",
+        "program": "${executablePath}",
+        "args": [
+            "${programArgs}"
+        ],
+        "env": [],
+        "initCommands": [
+            "target sim --file ${executablePath}"
+        ],
+        "preRunCommands": [],
+        "launchCommands": [
+            "file ${executablePath}",
+            "gdb-remote ${host}:${port}",
+            "monitor reset init",
+            "load"
+        ],
+        "stopCommands": [],
+        "exitCommands": []
+    },{
+        "name": "Debug on Simulator",
+        "id": "zdbSimulator",
+        "connectType": "simulator",
+        "type": "zdb-vscode",
+        "request": "launch",
+        "program": "${executablePath}",
+        "args": [
+            "${programArgs}"
+        ],
+        "env": [],
+        "initCommands": [
+            "target sim --file ${executablePath} ${simulatorArgs}"
+        ],
+        "preRunCommands": [],
+        "stopCommands": [],
+        "exitCommands": []
+    }]
+}

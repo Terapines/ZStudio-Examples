@@ -1,0 +1,768 @@
+{
+    "name": "Accelerated",
+    "id": "ee0c7d79-53a7-4513-8be7-31d10e976758",
+    "type": "executable",
+    "language": "c",
+    "languageStandard": "c99",
+    "description": "A project created by ZStudio",
+    "author": "",
+    "toolchain": "zcc",
+    "version": "1.0.0",
+    "copyright": "",
+    "activeConfiguration": "release",
+    "activePlatform": "risc-v",
+    "currentSoC": {
+        "id": "",
+        "name": "",
+        "board": "",
+        "march": "",
+        "description": ""
+    },
+    "outputDirectory": "${project_location}/output/${toolchain}/${platform_name}/${configuration_name}",
+    "dependencyDirectory": "${project_location}/dependencies",
+    "references": [],
+    "externalDependencies": [],
+    "sources": [
+        {
+            "name": "accelerated.c",
+            "path": "accelerated.c",
+            "configurations": []
+        }
+    ],
+    "headers": [
+        {
+            "name": "input1_q15.h",
+            "path": "input1_q15.h"
+        },
+        {
+            "name": "input2_q15.h",
+            "path": "input2_q15.h"
+        }
+    ],
+    "buildConfigurations": [
+        {
+            "name": "Debug|RISC-V",
+            "configuration": "debug",
+            "platform": "risc-v",
+            "march": "",
+            "mabi": "",
+            "mcpu": "",
+            "toolSettings": {
+                "compiler": {
+                    "command": "CC",
+                    "allOptions": " -I${project_location} -DDUMP -O1 -mcmodel=medlow -menable-experimental-extensions -march=rv32gcp0p95 --target=riscv32-unknown-elf -g3",
+                    "preprocessor": {
+                        "doNotSearchSystemDirectories": false,
+                        "preprocessOnly": false
+                    },
+                    "symbols": {
+                        "definedSymbols": [
+                            {
+                                "value": "DUMP"
+                            }
+                        ],
+                        "undefinedSymbols": []
+                    },
+                    "directories": {
+                        "includes": [
+                            {
+                                "value": "${project_location}"
+                            }
+                        ]
+                    },
+                    "optimization": {
+                        "optimizationLevel": "-O1",
+                        "codeModel": "-mcmodel=medlow",
+                        "otherOptimizationFlags": "-menable-experimental-extensions -march=rv32gcp0p95 --target=riscv32-unknown-elf",
+                        "enableLoopUnroll": "",
+                        "linkTimeOptimization": false,
+                        "removeUnusedFunctionSections": false,
+                        "removeUnusedDataSections": false
+                    },
+                    "debugging": {
+                        "debugLevel": "-g3",
+                        "otherDebuggingFlags": "",
+                        "generateGProfInformation": false,
+                        "generateProfInformation": false
+                    },
+                    "warnings": {
+                        "checkSyntaxOnly": false,
+                        "pedantic": false,
+                        "pedanticWarningAsErrors": false,
+                        "inhibitAllWarnings": false,
+                        "allWarnings": false,
+                        "warningsAsErrors": false
+                    },
+                    "miscellaneous": {
+                        "verbose": false,
+                        "supportANSIPrograms": false,
+                        "singlePrecisionConstant": false,
+                        "otherFlags": ""
+                    }
+                },
+                "linker": {
+                    "command": "CC",
+                    "allOptions": "--target=riscv32-unknown-elf",
+                    "general": {
+                        "doNotUseStandardStartFile": false,
+                        "doNotUseDefaultLibraries": false,
+                        "noStartupOrDefaultLibs": false,
+                        "omitAllSymbolInformation": false,
+                        "noSharedLibraries": false,
+                        "linkerScript": "",
+                        "writeMapFile": false
+                    },
+                    "libraries": {
+                        "libraryNames": [],
+                        "librariesSearchPath": []
+                    },
+                    "miscellaneous": {
+                        "otherFlags": "--target=riscv32-unknown-elf",
+                        "otherOptions": [],
+                        "otherObjects": []
+                    },
+                    "loadedAddress": {
+                        "programStartAddress": "",
+                        "dataAddress": "",
+                        "stackAddress": ""
+                    }
+                },
+                "ar": {
+                    "command": "AR",
+                    "allOptions": "-r",
+                    "general": {
+                        "otherFlags": "-r"
+                    }
+                },
+                "assembler": {
+                    "command": "AS",
+                    "allOptions": " -I${project_location}",
+                    "general": {
+                        "includePaths": [
+                            {
+                                "value": "${project_location}"
+                            }
+                        ],
+                        "suppressWarnings": false,
+                        "announceVersion": false,
+                        "otherFlags": ""
+                    }
+                },
+                "nm": {
+                    "command": "NM",
+                    "allOptions": "-n -C",
+                    "general": {
+                        "disable": true,
+                        "sortSymbolsByAddress": true,
+                        "includeInOutput": false,
+                        "decodeLowLevelSymbolName": true,
+                        "displayDebuggerOnlySymbols": false,
+                        "printInputFileBeforeSymbol": false,
+                        "displayOnlyExternalSymbols": false,
+                        "otherFlags": ""
+                    }
+                },
+                "readelf": {
+                    "command": "READELF",
+                    "allOptions": "-a",
+                    "general": {
+                        "disable": true,
+                        "equivalent": true,
+                        "displayELFFileHeader": false,
+                        "displayProgramHeader": false,
+                        "displaySectionsHeader": false,
+                        "displaySectionGroup": false,
+                        "displaySymbolTable": false,
+                        "otherFlags": ""
+                    }
+                },
+                "objdump": {
+                    "command": "OBJDUMP",
+                    "allOptions": "-x -d -C",
+                    "general": {
+                        "disable": true,
+                        "displayHeaders": true,
+                        "displaySectionHeaders": false,
+                        "displayAssemblerContents": true,
+                        "displaySymbolTable": false,
+                        "includeLineNumberAndFileName": false,
+                        "decodeSymbolName": true,
+                        "otherFlags": ""
+                    }
+                },
+                "objcopy": {
+                    "command": "OBJCOPY",
+                    "allOptions": "-S -O binary",
+                    "general": {
+                        "disable": true,
+                        "removeAllSymbols": true,
+                        "removeDebuggingSymbolSections": false,
+                        "removeNoGlobalSymbols": false,
+                        "removeCompilerGeneratedSymbols": false,
+                        "createOutputFileInFormat": "-O binary",
+                        "otherFlags": ""
+                    }
+                },
+                "size": {
+                    "command": "SIZE",
+                    "allOptions": "",
+                    "general": {
+                        "disable": true,
+                        "otherFlags": ""
+                    }
+                }
+            },
+            "preBuildCommand": "",
+            "postBuildCommand": ""
+        },
+        {
+            "name": "Release|RISC-V",
+            "configuration": "release",
+            "platform": "risc-v",
+            "march": "",
+            "mabi": "",
+            "mcpu": "",
+            "toolSettings": {
+                "compiler": {
+                    "command": "CC",
+                    "allOptions": " -I${project_location} -O1 -mcmodel=medlow -menable-experimental-extensions -march=rv32gcp0p95 --target=riscv32-unknown-elf -g3",
+                    "preprocessor": {
+                        "doNotSearchSystemDirectories": false,
+                        "preprocessOnly": false
+                    },
+                    "symbols": {
+                        "definedSymbols": [
+                            {
+                                "value": "DUMP"
+                            }
+                        ],
+                        "undefinedSymbols": []
+                    },
+                    "directories": {
+                        "includes": [
+                            {
+                                "value": "${project_location}"
+                            }
+                        ]
+                    },
+                    "optimization": {
+                        "optimizationLevel": "-O1",
+                        "codeModel": "-mcmodel=medlow",
+                        "otherOptimizationFlags": "-menable-experimental-extensions -march=rv32gcp0p95 --target=riscv32-unknown-elf",
+                        "enableLoopUnroll": "",
+                        "linkTimeOptimization": false,
+                        "removeUnusedFunctionSections": false,
+                        "removeUnusedDataSections": false
+                    },
+                    "debugging": {
+                        "debugLevel": "-g3",
+                        "otherDebuggingFlags": "",
+                        "generateGProfInformation": false,
+                        "generateProfInformation": false
+                    },
+                    "warnings": {
+                        "checkSyntaxOnly": false,
+                        "pedantic": false,
+                        "pedanticWarningAsErrors": false,
+                        "inhibitAllWarnings": false,
+                        "allWarnings": false,
+                        "warningsAsErrors": false
+                    },
+                    "miscellaneous": {
+                        "verbose": false,
+                        "supportANSIPrograms": false,
+                        "singlePrecisionConstant": false,
+                        "otherFlags": ""
+                    }
+                },
+                "linker": {
+                    "command": "CC",
+                    "allOptions": "--target=riscv32-unknown-elf",
+                    "general": {
+                        "doNotUseStandardStartFile": false,
+                        "doNotUseDefaultLibraries": false,
+                        "noStartupOrDefaultLibs": false,
+                        "omitAllSymbolInformation": false,
+                        "noSharedLibraries": false,
+                        "linkerScript": "",
+                        "writeMapFile": false
+                    },
+                    "libraries": {
+                        "libraryNames": [],
+                        "librariesSearchPath": []
+                    },
+                    "miscellaneous": {
+                        "otherFlags": "--target=riscv32-unknown-elf",
+                        "otherOptions": [],
+                        "otherObjects": []
+                    },
+                    "loadedAddress": {
+                        "programStartAddress": "",
+                        "dataAddress": "",
+                        "stackAddress": ""
+                    }
+                },
+                "ar": {
+                    "command": "AR",
+                    "allOptions": "-r",
+                    "general": {
+                        "otherFlags": "-r"
+                    }
+                },
+                "assembler": {
+                    "command": "AS",
+                    "allOptions": " -I${project_location}",
+                    "general": {
+                        "includePaths": [
+                            {
+                                "value": "${project_location}"
+                            }
+                        ],
+                        "suppressWarnings": false,
+                        "announceVersion": false,
+                        "otherFlags": ""
+                    }
+                },
+                "nm": {
+                    "command": "NM",
+                    "allOptions": "-n -C",
+                    "general": {
+                        "disable": true,
+                        "sortSymbolsByAddress": true,
+                        "includeInOutput": false,
+                        "decodeLowLevelSymbolName": true,
+                        "displayDebuggerOnlySymbols": false,
+                        "printInputFileBeforeSymbol": false,
+                        "displayOnlyExternalSymbols": false,
+                        "otherFlags": ""
+                    }
+                },
+                "readelf": {
+                    "command": "READELF",
+                    "allOptions": "-a",
+                    "general": {
+                        "disable": true,
+                        "equivalent": true,
+                        "displayELFFileHeader": false,
+                        "displayProgramHeader": false,
+                        "displaySectionsHeader": false,
+                        "displaySectionGroup": false,
+                        "displaySymbolTable": false,
+                        "otherFlags": ""
+                    }
+                },
+                "objdump": {
+                    "command": "OBJDUMP",
+                    "allOptions": "-x -d -C",
+                    "general": {
+                        "disable": true,
+                        "displayHeaders": true,
+                        "displaySectionHeaders": false,
+                        "displayAssemblerContents": true,
+                        "displaySymbolTable": false,
+                        "includeLineNumberAndFileName": false,
+                        "decodeSymbolName": true,
+                        "otherFlags": ""
+                    }
+                },
+                "objcopy": {
+                    "command": "OBJCOPY",
+                    "allOptions": "-S -O binary",
+                    "general": {
+                        "disable": true,
+                        "removeAllSymbols": true,
+                        "removeDebuggingSymbolSections": false,
+                        "removeNoGlobalSymbols": false,
+                        "removeCompilerGeneratedSymbols": false,
+                        "createOutputFileInFormat": "-O binary",
+                        "otherFlags": ""
+                    }
+                },
+                "size": {
+                    "command": "SIZE",
+                    "allOptions": "",
+                    "general": {
+                        "disable": true,
+                        "otherFlags": ""
+                    }
+                }
+            },
+            "preBuildCommand": "",
+            "postBuildCommand": ""
+        },
+        {
+            "name": "Min Size|RISC-V",
+            "configuration": "minSize",
+            "platform": "risc-v",
+            "march": "",
+            "mabi": "",
+            "mcpu": "",
+            "toolSettings": {
+                "compiler": {
+                    "command": "CC",
+                    "allOptions": " -I${project_location} -O1 -mcmodel=medlow",
+                    "preprocessor": {
+                        "doNotSearchSystemDirectories": false,
+                        "preprocessOnly": false
+                    },
+                    "symbols": {
+                        "definedSymbols": [
+                            {
+                                "value": "DUMP"
+                            }
+                        ],
+                        "undefinedSymbols": []
+                    },
+                    "directories": {
+                        "includes": [
+                            {
+                                "value": "${project_location}"
+                            }
+                        ]
+                    },
+                    "optimization": {
+                        "optimizationLevel": "-O1",
+                        "codeModel": "-mcmodel=medlow",
+                        "otherOptimizationFlags": "",
+                        "enableLoopUnroll": "",
+                        "linkTimeOptimization": false,
+                        "removeUnusedFunctionSections": false,
+                        "removeUnusedDataSections": false
+                    },
+                    "debugging": {
+                        "debugLevel": "",
+                        "otherDebuggingFlags": "",
+                        "generateGProfInformation": false,
+                        "generateProfInformation": false
+                    },
+                    "warnings": {
+                        "checkSyntaxOnly": false,
+                        "pedantic": false,
+                        "pedanticWarningAsErrors": false,
+                        "inhibitAllWarnings": false,
+                        "allWarnings": false,
+                        "warningsAsErrors": false
+                    },
+                    "miscellaneous": {
+                        "verbose": false,
+                        "supportANSIPrograms": false,
+                        "singlePrecisionConstant": false,
+                        "otherFlags": ""
+                    }
+                },
+                "linker": {
+                    "command": "CC",
+                    "allOptions": "",
+                    "general": {
+                        "doNotUseStandardStartFile": false,
+                        "doNotUseDefaultLibraries": false,
+                        "noStartupOrDefaultLibs": false,
+                        "omitAllSymbolInformation": false,
+                        "noSharedLibraries": false,
+                        "linkerScript": "",
+                        "writeMapFile": false
+                    },
+                    "libraries": {
+                        "libraryNames": [],
+                        "librariesSearchPath": []
+                    },
+                    "miscellaneous": {
+                        "otherFlags": "",
+                        "otherOptions": [],
+                        "otherObjects": []
+                    },
+                    "loadedAddress": {
+                        "programStartAddress": "",
+                        "dataAddress": "",
+                        "stackAddress": ""
+                    }
+                },
+                "ar": {
+                    "command": "AR",
+                    "allOptions": "-r",
+                    "general": {
+                        "otherFlags": "-r"
+                    }
+                },
+                "assembler": {
+                    "command": "AS",
+                    "allOptions": " -I${project_location}",
+                    "general": {
+                        "includePaths": [
+                            {
+                                "value": "${project_location}"
+                            }
+                        ],
+                        "suppressWarnings": false,
+                        "announceVersion": false,
+                        "otherFlags": ""
+                    }
+                },
+                "nm": {
+                    "command": "NM",
+                    "allOptions": "-n -C",
+                    "general": {
+                        "disable": true,
+                        "sortSymbolsByAddress": true,
+                        "includeInOutput": false,
+                        "decodeLowLevelSymbolName": true,
+                        "displayDebuggerOnlySymbols": false,
+                        "printInputFileBeforeSymbol": false,
+                        "displayOnlyExternalSymbols": false,
+                        "otherFlags": ""
+                    }
+                },
+                "readelf": {
+                    "command": "READELF",
+                    "allOptions": "-a",
+                    "general": {
+                        "disable": true,
+                        "equivalent": true,
+                        "displayELFFileHeader": false,
+                        "displayProgramHeader": false,
+                        "displaySectionsHeader": false,
+                        "displaySectionGroup": false,
+                        "displaySymbolTable": false,
+                        "otherFlags": ""
+                    }
+                },
+                "objdump": {
+                    "command": "OBJDUMP",
+                    "allOptions": "-x -d -C",
+                    "general": {
+                        "disable": true,
+                        "displayHeaders": true,
+                        "displaySectionHeaders": false,
+                        "displayAssemblerContents": true,
+                        "displaySymbolTable": false,
+                        "includeLineNumberAndFileName": false,
+                        "decodeSymbolName": true,
+                        "otherFlags": ""
+                    }
+                },
+                "objcopy": {
+                    "command": "OBJCOPY",
+                    "allOptions": "-S -O binary",
+                    "general": {
+                        "disable": true,
+                        "removeAllSymbols": true,
+                        "removeDebuggingSymbolSections": false,
+                        "removeNoGlobalSymbols": false,
+                        "removeCompilerGeneratedSymbols": false,
+                        "createOutputFileInFormat": "-O binary",
+                        "otherFlags": ""
+                    }
+                },
+                "size": {
+                    "command": "SIZE",
+                    "allOptions": "",
+                    "general": {
+                        "disable": true,
+                        "otherFlags": ""
+                    }
+                }
+            },
+            "preBuildCommand": "",
+            "postBuildCommand": ""
+        },
+        {
+            "name": "Release with Debug Information|RISC-V",
+            "configuration": "releaseWithDebugInfo",
+            "platform": "risc-v",
+            "march": "",
+            "mabi": "",
+            "mcpu": "",
+            "toolSettings": {
+                "compiler": {
+                    "command": "CC",
+                    "allOptions": " -I${project_location} -O1 -mcmodel=medlow",
+                    "preprocessor": {
+                        "doNotSearchSystemDirectories": false,
+                        "preprocessOnly": false
+                    },
+                    "symbols": {
+                        "definedSymbols": [
+                            {
+                                "value": "DUMP"
+                            }
+                        ],
+                        "undefinedSymbols": []
+                    },
+                    "directories": {
+                        "includes": [
+                            {
+                                "value": "${project_location}"
+                            }
+                        ]
+                    },
+                    "optimization": {
+                        "optimizationLevel": "-O1",
+                        "codeModel": "-mcmodel=medlow",
+                        "otherOptimizationFlags": "",
+                        "enableLoopUnroll": "",
+                        "linkTimeOptimization": false,
+                        "removeUnusedFunctionSections": false,
+                        "removeUnusedDataSections": false
+                    },
+                    "debugging": {
+                        "debugLevel": "",
+                        "otherDebuggingFlags": "",
+                        "generateGProfInformation": false,
+                        "generateProfInformation": false
+                    },
+                    "warnings": {
+                        "checkSyntaxOnly": false,
+                        "pedantic": false,
+                        "pedanticWarningAsErrors": false,
+                        "inhibitAllWarnings": false,
+                        "allWarnings": false,
+                        "warningsAsErrors": false
+                    },
+                    "miscellaneous": {
+                        "verbose": false,
+                        "supportANSIPrograms": false,
+                        "singlePrecisionConstant": false,
+                        "otherFlags": ""
+                    }
+                },
+                "linker": {
+                    "command": "CC",
+                    "allOptions": "",
+                    "general": {
+                        "doNotUseStandardStartFile": false,
+                        "doNotUseDefaultLibraries": false,
+                        "noStartupOrDefaultLibs": false,
+                        "omitAllSymbolInformation": false,
+                        "noSharedLibraries": false,
+                        "linkerScript": "",
+                        "writeMapFile": false
+                    },
+                    "libraries": {
+                        "libraryNames": [],
+                        "librariesSearchPath": []
+                    },
+                    "miscellaneous": {
+                        "otherFlags": "",
+                        "otherOptions": [],
+                        "otherObjects": []
+                    },
+                    "loadedAddress": {
+                        "programStartAddress": "",
+                        "dataAddress": "",
+                        "stackAddress": ""
+                    }
+                },
+                "ar": {
+                    "command": "AR",
+                    "allOptions": "-r",
+                    "general": {
+                        "otherFlags": "-r"
+                    }
+                },
+                "assembler": {
+                    "command": "AS",
+                    "allOptions": " -I${project_location}",
+                    "general": {
+                        "includePaths": [
+                            {
+                                "value": "${project_location}"
+                            }
+                        ],
+                        "suppressWarnings": false,
+                        "announceVersion": false,
+                        "otherFlags": ""
+                    }
+                },
+                "nm": {
+                    "command": "NM",
+                    "allOptions": "-n -C",
+                    "general": {
+                        "disable": true,
+                        "sortSymbolsByAddress": true,
+                        "includeInOutput": false,
+                        "decodeLowLevelSymbolName": true,
+                        "displayDebuggerOnlySymbols": false,
+                        "printInputFileBeforeSymbol": false,
+                        "displayOnlyExternalSymbols": false,
+                        "otherFlags": ""
+                    }
+                },
+                "readelf": {
+                    "command": "READELF",
+                    "allOptions": "-a",
+                    "general": {
+                        "disable": true,
+                        "equivalent": true,
+                        "displayELFFileHeader": false,
+                        "displayProgramHeader": false,
+                        "displaySectionsHeader": false,
+                        "displaySectionGroup": false,
+                        "displaySymbolTable": false,
+                        "otherFlags": ""
+                    }
+                },
+                "objdump": {
+                    "command": "OBJDUMP",
+                    "allOptions": "-x -d -C",
+                    "general": {
+                        "disable": true,
+                        "displayHeaders": true,
+                        "displaySectionHeaders": false,
+                        "displayAssemblerContents": true,
+                        "displaySymbolTable": false,
+                        "includeLineNumberAndFileName": false,
+                        "decodeSymbolName": true,
+                        "otherFlags": ""
+                    }
+                },
+                "objcopy": {
+                    "command": "OBJCOPY",
+                    "allOptions": "-S -O binary",
+                    "general": {
+                        "disable": true,
+                        "removeAllSymbols": true,
+                        "removeDebuggingSymbolSections": false,
+                        "removeNoGlobalSymbols": false,
+                        "removeCompilerGeneratedSymbols": false,
+                        "createOutputFileInFormat": "-O binary",
+                        "otherFlags": ""
+                    }
+                },
+                "size": {
+                    "command": "SIZE",
+                    "allOptions": "",
+                    "general": {
+                        "disable": true,
+                        "otherFlags": ""
+                    }
+                }
+            },
+            "preBuildCommand": "",
+            "postBuildCommand": ""
+        }
+    ],
+    "runConfiguration": {
+        "programArguments": "",
+        "connectType": "simulator",
+        "openOCDConfigurationId": "",
+        "boardConfigurationFile": "VB5Stages",
+        "simulatorArguments": "--stat"
+    },
+    "profileConfiguration": {
+        "programArguments": "",
+        "boardConfigurationFile": "",
+        "simulatorArguments": "",
+        "virtualBoard": "VB5Stages",
+        "profilingLevel": "3",
+        "override": "True",
+        "profilingDir": "${project_name}.zprof",
+        "profilingDirCollections": []
+    },
+    "debugConfiguration": {
+        "programArguments": "",
+        "connectType": "simulator",
+        "openOCDConfigurationId": "",
+        "boardConfigurationFile": "",
+        "simulatorArguments": ""
+    }
+}
