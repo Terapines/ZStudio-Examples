@@ -1,0 +1,44 @@
+{
+    "name": "matrix_cmplx_mult",
+    "id": "169fee2c-f195-490e-9da9-e3203f572279",
+    "projects": [
+        {
+            "id": "12139552-1b44-49e8-b982-82f3811cfd78",
+            "name": "base",
+            "path": "../base/base.zsproj",
+            "references": []
+        },
+        {
+            "id": "6bc28f4b-a66b-4992-8304-d10000babfcc",
+            "name": "custom",
+            "path": "../custom/custom.zsproj",
+            "references": []
+        }
+    ],
+    "groups": [],
+    "solutionConfigurations": [
+        {
+            "value": "debug",
+            "label": "Debug"
+        },
+        {
+            "value": "release",
+            "label": "Release"
+        },
+        {
+            "value": "minSize",
+            "label": "Min Size"
+        },
+        {
+            "value": "releaseWithDebugInfo",
+            "label": "Release with Debug Information"
+        }
+    ],
+    "solutionPlatforms": [
+        {
+            "value": "risc-v",
+            "label": "RISC-V"
+        }
+    ],
+    "projectConfigurationPlatforms": []
+}

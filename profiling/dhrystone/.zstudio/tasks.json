@@ -1,0 +1,34 @@
+{
+    "tasks": [
+        {
+            "label": "Run Simulate",
+            "command": "${env:SIMULATOR}",
+            "type": "shell",
+            "args": [
+                "${executablePath}"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "Profiling Simulate",
+            "command": "${env:SIMULATOR}",
+            "type": "shell",
+            "args": [
+                "-o=${outputDir}/${profilingDir}",
+                "--profiling=${profilingType}",
+                "${executablePath}"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "Line Coverage Simulate",
+            "command": "${env:SIMULATOR}",
+            "type": "shell",
+            "args": [
+                "-o=${covOutputDir}",
+                "${covExecutablePath}"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}

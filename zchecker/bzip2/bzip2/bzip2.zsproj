@@ -783,17 +783,20 @@
         "connectType": "simulator",
         "openOCDConfigurationId": "",
         "boardConfigurationFile": "",
-        "simulatorArguments": ""
+        "simulatorArguments": "--stat",
+        "virtualBoard": "",
+        "virtualBoardSource": "Builtin",
+        "simulationLevel": "sim"
     },
     "profileConfiguration": {
         "programArguments": "",
         "boardConfigurationFile": "",
         "simulatorArguments": "",
-        "virtualBoard": "VB5Stages",
+        "virtualBoard": "",
         "profilingLevel": "3",
-        "override": "True",
-        "profilingDir": "${project_name}.zprof",
-        "profilingDirCollections": []
+        "override": "False",
+        "profilingDir": "",
+        "virtualBoardSource": "Builtin"
     },
     "debugConfiguration": {
         "programArguments": "",

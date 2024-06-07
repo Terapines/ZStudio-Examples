@@ -1,6 +1,6 @@
 {
-    "name": "Normal",
-    "id": "64c45ec4-0679-49c0-a953-3a7e8ad2359c",
+    "name": "coremark",
+    "id": "48092ae5-cff9-49d2-b733-df30224234ea",
     "type": "executable",
     "language": "c",
     "languageStandard": "c99",
@@ -24,19 +24,61 @@
     "externalDependencies": [],
     "sources": [
         {
-            "name": "normal.c",
-            "path": "normal.c",
+            "name": "core_util.c",
+            "path": "core_util.c",
             "configurations": []
+        },
+        {
+            "name": "core_state.c",
+            "path": "core_state.c",
+            "configurations": []
+        },
+        {
+            "name": "core_matrix.c",
+            "path": "core_matrix.c",
+            "configurations": []
+        },
+        {
+            "name": "core_main.c",
+            "path": "core_main.c",
+            "configurations": []
+        },
+        {
+            "name": "core_list_join.c",
+            "path": "core_list_join.c",
+            "configurations": []
+        },
+        {
+            "name": "riscv-bare",
+            "path": "riscv-bare",
+            "configurations": [],
+            "children": [
+                {
+                    "name": "core_portme.c",
+                    "path": "riscv-bare/core_portme.c",
+                    "configurations": []
+                }
+            ]
         }
     ],
     "headers": [
         {
-            "name": "input1_q15.h",
-            "path": "input1_q15.h"
+            "name": "coremark.h",
+            "path": "coremark.h"
         },
         {
-            "name": "input2_q15.h",
-            "path": "input2_q15.h"
+            "name": "riscv-bare",
+            "path": "riscv-bare",
+            "children": [
+                {
+                    "name": "core_portme.h",
+                    "path": "riscv-bare/core_portme.h"
+                },
+                {
+                    "name": "riscv_common.h",
+                    "path": "riscv-bare/riscv_common.h"
+                }
+            ]
         }
     ],
     "buildConfigurations": [
@@ -44,13 +86,13 @@
             "name": "Debug|RISC-V",
             "configuration": "debug",
             "platform": "risc-v",
-            "march": "rv32gc",
+            "march": "",
             "mabi": "",
             "mcpu": "",
             "toolSettings": {
                 "compiler": {
                     "command": "CC",
-                    "allOptions": " -I${project_location} -DDUMP -O1 -mcmodel=medlow -menable-experimental-extensions --target=riscv32-unknown-elf -g3",
+                    "allOptions": "-DITERATIONS=10 -I${project_location} -I${project_location}/riscv-bare -O2 -mcmodel=medlow -g2",
                     "preprocessor": {
                         "doNotSearchSystemDirectories": false,
                         "preprocessOnly": false
@@ -58,7 +100,7 @@
                     "symbols": {
                         "definedSymbols": [
                             {
-                                "value": "DUMP"
+                                "value": "ITERATIONS=10"
                             }
                         ],
                         "undefinedSymbols": []
@@ -67,23 +109,26 @@
                         "includes": [
                             {
                                 "value": "${project_location}"
+                            },
+                            {
+                                "value": "${project_location}/riscv-bare"
                             }
                         ]
                     },
                     "optimization": {
-                        "optimizationLevel": "-O1",
+                        "optimizationLevel": "-O2",
                         "codeModel": "-mcmodel=medlow",
-                        "otherOptimizationFlags": "",
                         "enableLoopUnroll": "",
                         "linkTimeOptimization": false,
                         "removeUnusedFunctionSections": false,
-                        "removeUnusedDataSections": false
+                        "removeUnusedDataSections": false,
+                        "otherOptimizationFlags": ""
                     },
                     "debugging": {
-                        "debugLevel": "-g3",
-                        "otherDebuggingFlags": "",
+                        "debugLevel": "-g2",
                         "generateGProfInformation": false,
-                        "generateProfInformation": false
+                        "generateProfInformation": false,
+                        "otherDebuggingFlags": ""
                     },
                     "warnings": {
                         "checkSyntaxOnly": false,
@@ -97,12 +142,12 @@
                         "verbose": false,
                         "supportANSIPrograms": false,
                         "singlePrecisionConstant": false,
-                        "otherFlags": "-menable-experimental-extensions --target=riscv32-unknown-elf"
+                        "otherFlags": ""
                     }
                 },
                 "linker": {
                     "command": "CC",
-                    "allOptions": "-menable-experimental-extensions --target=riscv32-unknown-elf",
+                    "allOptions": "",
                     "general": {
                         "doNotUseStandardStartFile": false,
                         "doNotUseDefaultLibraries": false,
@@ -117,9 +162,9 @@
                         "librariesSearchPath": []
                     },
                     "miscellaneous": {
-                        "otherFlags": "-menable-experimental-extensions --target=riscv32-unknown-elf",
                         "otherOptions": [],
-                        "otherObjects": []
+                        "otherObjects": [],
+                        "otherFlags": ""
                     },
                     "loadedAddress": {
                         "programStartAddress": "",
@@ -129,18 +174,21 @@
                 },
                 "ar": {
                     "command": "AR",
-                    "allOptions": "-r",
+                    "allOptions": "rcs",
                     "general": {
-                        "otherFlags": "-r"
+                        "otherFlags": "rcs"
                     }
                 },
                 "assembler": {
                     "command": "AS",
-                    "allOptions": " -I${project_location}",
+                    "allOptions": " -I${project_location} -I${project_location}/riscv-bare",
                     "general": {
                         "includePaths": [
                             {
                                 "value": "${project_location}"
+                            },
+                            {
+                                "value": "${project_location}/riscv-bare"
                             }
                         ],
                         "suppressWarnings": false,
@@ -219,13 +267,13 @@
             "name": "Release|RISC-V",
             "configuration": "release",
             "platform": "risc-v",
-            "march": "rv32gc",
+            "march": "",
             "mabi": "",
             "mcpu": "",
             "toolSettings": {
                 "compiler": {
                     "command": "CC",
-                    "allOptions": " -I${project_location} -O1 -mcmodel=medlow -menable-experimental-extensions --target=riscv32-unknown-elf -g3",
+                    "allOptions": " -I${project_location} -I${project_location}/riscv-bare -O1 -mcmodel=medlow",
                     "preprocessor": {
                         "doNotSearchSystemDirectories": false,
                         "preprocessOnly": false
@@ -238,23 +286,26 @@
                         "includes": [
                             {
                                 "value": "${project_location}"
+                            },
+                            {
+                                "value": "${project_location}/riscv-bare"
                             }
                         ]
                     },
                     "optimization": {
                         "optimizationLevel": "-O1",
                         "codeModel": "-mcmodel=medlow",
-                        "otherOptimizationFlags": "",
                         "enableLoopUnroll": "",
                         "linkTimeOptimization": false,
                         "removeUnusedFunctionSections": false,
-                        "removeUnusedDataSections": false
+                        "removeUnusedDataSections": false,
+                        "otherOptimizationFlags": ""
                     },
                     "debugging": {
-                        "debugLevel": "-g3",
-                        "otherDebuggingFlags": "",
+                        "debugLevel": "",
                         "generateGProfInformation": false,
-                        "generateProfInformation": false
+                        "generateProfInformation": false,
+                        "otherDebuggingFlags": ""
                     },
                     "warnings": {
                         "checkSyntaxOnly": false,
@@ -268,12 +319,12 @@
                         "verbose": false,
                         "supportANSIPrograms": false,
                         "singlePrecisionConstant": false,
-                        "otherFlags": "-menable-experimental-extensions --target=riscv32-unknown-elf"
+                        "otherFlags": ""
                     }
                 },
                 "linker": {
                     "command": "CC",
-                    "allOptions": "-menable-experimental-extensions --target=riscv32-unknown-elf",
+                    "allOptions": "",
                     "general": {
                         "doNotUseStandardStartFile": false,
                         "doNotUseDefaultLibraries": false,
@@ -288,9 +339,9 @@
                         "librariesSearchPath": []
                     },
                     "miscellaneous": {
-                        "otherFlags": "-menable-experimental-extensions --target=riscv32-unknown-elf",
                         "otherOptions": [],
-                        "otherObjects": []
+                        "otherObjects": [],
+                        "otherFlags": ""
                     },
                     "loadedAddress": {
                         "programStartAddress": "",
@@ -300,18 +351,21 @@
                 },
                 "ar": {
                     "command": "AR",
-                    "allOptions": "-r",
+                    "allOptions": "rcs",
                     "general": {
-                        "otherFlags": "-r"
+                        "otherFlags": "rcs"
                     }
                 },
                 "assembler": {
                     "command": "AS",
-                    "allOptions": " -I${project_location}",
+                    "allOptions": " -I${project_location} -I${project_location}/riscv-bare",
                     "general": {
                         "includePaths": [
                             {
                                 "value": "${project_location}"
+                            },
+                            {
+                                "value": "${project_location}/riscv-bare"
                             }
                         ],
                         "suppressWarnings": false,
@@ -396,7 +450,7 @@
             "toolSettings": {
                 "compiler": {
                     "command": "CC",
-                    "allOptions": " -I${project_location} -O1 -mcmodel=medlow",
+                    "allOptions": " -I${project_location} -I${project_location}/riscv-bare -O1 -mcmodel=medlow",
                     "preprocessor": {
                         "doNotSearchSystemDirectories": false,
                         "preprocessOnly": false
@@ -409,23 +463,26 @@
                         "includes": [
                             {
                                 "value": "${project_location}"
+                            },
+                            {
+                                "value": "${project_location}/riscv-bare"
                             }
                         ]
                     },
                     "optimization": {
                         "optimizationLevel": "-O1",
                         "codeModel": "-mcmodel=medlow",
-                        "otherOptimizationFlags": "",
                         "enableLoopUnroll": "",
                         "linkTimeOptimization": false,
                         "removeUnusedFunctionSections": false,
-                        "removeUnusedDataSections": false
+                        "removeUnusedDataSections": false,
+                        "otherOptimizationFlags": ""
                     },
                     "debugging": {
                         "debugLevel": "",
-                        "otherDebuggingFlags": "",
                         "generateGProfInformation": false,
-                        "generateProfInformation": false
+                        "generateProfInformation": false,
+                        "otherDebuggingFlags": ""
                     },
                     "warnings": {
                         "checkSyntaxOnly": false,
@@ -459,9 +516,9 @@
                         "librariesSearchPath": []
                     },
                     "miscellaneous": {
-                        "otherFlags": "",
                         "otherOptions": [],
-                        "otherObjects": []
+                        "otherObjects": [],
+                        "otherFlags": ""
                     },
                     "loadedAddress": {
                         "programStartAddress": "",
@@ -471,18 +528,21 @@
                 },
                 "ar": {
                     "command": "AR",
-                    "allOptions": "-r",
+                    "allOptions": "rcs",
                     "general": {
-                        "otherFlags": "-r"
+                        "otherFlags": "rcs"
                     }
                 },
                 "assembler": {
                     "command": "AS",
-                    "allOptions": " -I${project_location}",
+                    "allOptions": " -I${project_location} -I${project_location}/riscv-bare",
                     "general": {
                         "includePaths": [
                             {
                                 "value": "${project_location}"
+                            },
+                            {
+                                "value": "${project_location}/riscv-bare"
                             }
                         ],
                         "suppressWarnings": false,
@@ -567,7 +627,7 @@
             "toolSettings": {
                 "compiler": {
                     "command": "CC",
-                    "allOptions": " -I${project_location} -O1 -mcmodel=medlow",
+                    "allOptions": " -I${project_location} -I${project_location}/riscv-bare -O1 -mcmodel=medlow",
                     "preprocessor": {
                         "doNotSearchSystemDirectories": false,
                         "preprocessOnly": false
@@ -580,23 +640,26 @@
                         "includes": [
                             {
                                 "value": "${project_location}"
+                            },
+                            {
+                                "value": "${project_location}/riscv-bare"
                             }
                         ]
                     },
                     "optimization": {
                         "optimizationLevel": "-O1",
                         "codeModel": "-mcmodel=medlow",
-                        "otherOptimizationFlags": "",
                         "enableLoopUnroll": "",
                         "linkTimeOptimization": false,
                         "removeUnusedFunctionSections": false,
-                        "removeUnusedDataSections": false
+                        "removeUnusedDataSections": false,
+                        "otherOptimizationFlags": ""
                     },
                     "debugging": {
                         "debugLevel": "",
-                        "otherDebuggingFlags": "",
                         "generateGProfInformation": false,
-                        "generateProfInformation": false
+                        "generateProfInformation": false,
+                        "otherDebuggingFlags": ""
                     },
                     "warnings": {
                         "checkSyntaxOnly": false,
@@ -630,9 +693,9 @@
                         "librariesSearchPath": []
                     },
                     "miscellaneous": {
-                        "otherFlags": "",
                         "otherOptions": [],
-                        "otherObjects": []
+                        "otherObjects": [],
+                        "otherFlags": ""
                     },
                     "loadedAddress": {
                         "programStartAddress": "",
@@ -642,18 +705,21 @@
                 },
                 "ar": {
                     "command": "AR",
-                    "allOptions": "-r",
+                    "allOptions": "rcs",
                     "general": {
-                        "otherFlags": "-r"
+                        "otherFlags": "rcs"
                     }
                 },
                 "assembler": {
                     "command": "AS",
-                    "allOptions": " -I${project_location}",
+                    "allOptions": " -I${project_location} -I${project_location}/riscv-bare",
                     "general": {
                         "includePaths": [
                             {
                                 "value": "${project_location}"
+                            },
+                            {
+                                "value": "${project_location}/riscv-bare"
                             }
                         ],
                         "suppressWarnings": false,
@@ -729,25 +795,25 @@
             "postBuildCommand": ""
         }
     ],
-   "runConfiguration": {
+    "runConfiguration": {
         "programArguments": "",
         "connectType": "simulator",
         "openOCDConfigurationId": "",
         "boardConfigurationFile": "",
         "simulatorArguments": "",
-        "virtualBoard": "SmallBoom",
+        "virtualBoard": "",
         "virtualBoardSource": "Builtin",
         "simulationLevel": "sim"
     },
     "profileConfiguration": {
-        "programArguments": "",
+        "virtualBoardSource": "Builtin",
+        "virtualBoard": "",
         "boardConfigurationFile": "",
-        "simulatorArguments": "",
-        "virtualBoard": "SmallBoom",
         "profilingLevel": "3",
         "override": "False",
         "profilingDir": "",
-        "virtualBoardSource": "Builtin"
+        "simulatorArguments": "",
+        "programArguments": ""
     },
     "debugConfiguration": {
         "programArguments": "",

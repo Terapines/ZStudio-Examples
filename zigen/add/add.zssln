@@ -1,0 +1,38 @@
+{
+    "name": "add",
+    "id": "7ffdd6c2-abcc-482b-bc7b-079e3e0bf8f8",
+    "projects": [
+        {
+            "id": "cdd97599-c087-4545-b65e-11bc40f453ff",
+            "name": "add",
+            "path": "../add/add.zsproj",
+            "references": []
+        }
+    ],
+    "groups": [],
+    "solutionConfigurations": [
+        {
+            "value": "debug",
+            "label": "Debug"
+        },
+        {
+            "value": "release",
+            "label": "Release"
+        },
+        {
+            "value": "minSize",
+            "label": "Min Size"
+        },
+        {
+            "value": "releaseWithDebugInfo",
+            "label": "Release with Debug Information"
+        }
+    ],
+    "solutionPlatforms": [
+        {
+            "value": "risc-v",
+            "label": "RISC-V"
+        }
+    ],
+    "projectConfigurationPlatforms": []
+}

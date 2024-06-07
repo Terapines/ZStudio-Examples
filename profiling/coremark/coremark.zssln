@@ -1,0 +1,44 @@
+{
+    "name": "coremark",
+    "id": "796da3c4-cb07-4a0a-9c32-9b2035b38ec5",
+    "projects": [
+        {
+            "id": "48092ae5-cff9-49d2-b733-df30224234ea",
+            "name": "coremark",
+            "path": "../coremark/coremark.zsproj",
+            "references": []
+        },
+        {
+            "id": "ffbca814-c0a2-40b9-9686-621b2e771b34",
+            "name": "coremark_htif",
+            "path": "../coremark_htif/coremark_htif.zsproj",
+            "references": []
+        }
+    ],
+    "groups": [],
+    "solutionConfigurations": [
+        {
+            "value": "debug",
+            "label": "Debug"
+        },
+        {
+            "value": "release",
+            "label": "Release"
+        },
+        {
+            "value": "minSize",
+            "label": "Min Size"
+        },
+        {
+            "value": "releaseWithDebugInfo",
+            "label": "Release with Debug Information"
+        }
+    ],
+    "solutionPlatforms": [
+        {
+            "value": "risc-v",
+            "label": "RISC-V"
+        }
+    ],
+    "projectConfigurationPlatforms": []
+}

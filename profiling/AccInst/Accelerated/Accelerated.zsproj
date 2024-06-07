@@ -44,13 +44,13 @@
             "name": "Debug|RISC-V",
             "configuration": "debug",
             "platform": "risc-v",
-            "march": "",
+            "march": "rv32gcp0p95",
             "mabi": "",
             "mcpu": "",
             "toolSettings": {
                 "compiler": {
                     "command": "CC",
-                    "allOptions": " -I${project_location} -DDUMP -O1 -mcmodel=medlow -menable-experimental-extensions -march=rv32gcp0p95 --target=riscv32-unknown-elf -g3",
+                    "allOptions": " -I${project_location} -DDUMP -O1 -mcmodel=medlow -menable-experimental-extensions --target=riscv32-unknown-elf -g3",
                     "preprocessor": {
                         "doNotSearchSystemDirectories": false,
                         "preprocessOnly": false
@@ -73,7 +73,7 @@
                     "optimization": {
                         "optimizationLevel": "-O1",
                         "codeModel": "-mcmodel=medlow",
-                        "otherOptimizationFlags": "-menable-experimental-extensions -march=rv32gcp0p95 --target=riscv32-unknown-elf",
+                        "otherOptimizationFlags": "",
                         "enableLoopUnroll": "",
                         "linkTimeOptimization": false,
                         "removeUnusedFunctionSections": false,
@@ -97,12 +97,12 @@
                         "verbose": false,
                         "supportANSIPrograms": false,
                         "singlePrecisionConstant": false,
-                        "otherFlags": ""
+                        "otherFlags": "-menable-experimental-extensions --target=riscv32-unknown-elf"
                     }
                 },
                 "linker": {
                     "command": "CC",
-                    "allOptions": "--target=riscv32-unknown-elf",
+                    "allOptions": "-menable-experimental-extensions --target=riscv32-unknown-elf",
                     "general": {
                         "doNotUseStandardStartFile": false,
                         "doNotUseDefaultLibraries": false,
@@ -117,7 +117,7 @@
                         "librariesSearchPath": []
                     },
                     "miscellaneous": {
-                        "otherFlags": "--target=riscv32-unknown-elf",
+                        "otherFlags": "-menable-experimental-extensions --target=riscv32-unknown-elf",
                         "otherOptions": [],
                         "otherObjects": []
                     },
@@ -219,13 +219,13 @@
             "name": "Release|RISC-V",
             "configuration": "release",
             "platform": "risc-v",
-            "march": "",
+            "march": "rv32gcp0p95",
             "mabi": "",
             "mcpu": "",
             "toolSettings": {
                 "compiler": {
                     "command": "CC",
-                    "allOptions": " -I${project_location} -O1 -mcmodel=medlow -menable-experimental-extensions -march=rv32gcp0p95 --target=riscv32-unknown-elf -g3",
+                    "allOptions": " -I${project_location} -O1 -mcmodel=medlow -menable-experimental-extensions --target=riscv32-unknown-elf -g3",
                     "preprocessor": {
                         "doNotSearchSystemDirectories": false,
                         "preprocessOnly": false
@@ -248,7 +248,7 @@
                     "optimization": {
                         "optimizationLevel": "-O1",
                         "codeModel": "-mcmodel=medlow",
-                        "otherOptimizationFlags": "-menable-experimental-extensions -march=rv32gcp0p95 --target=riscv32-unknown-elf",
+                        "otherOptimizationFlags": "",
                         "enableLoopUnroll": "",
                         "linkTimeOptimization": false,
                         "removeUnusedFunctionSections": false,
@@ -272,12 +272,12 @@
                         "verbose": false,
                         "supportANSIPrograms": false,
                         "singlePrecisionConstant": false,
-                        "otherFlags": ""
+                        "otherFlags": "-menable-experimental-extensions --target=riscv32-unknown-elf"
                     }
                 },
                 "linker": {
                     "command": "CC",
-                    "allOptions": "--target=riscv32-unknown-elf",
+                    "allOptions": "-menable-experimental-extensions --target=riscv32-unknown-elf",
                     "general": {
                         "doNotUseStandardStartFile": false,
                         "doNotUseDefaultLibraries": false,
@@ -292,7 +292,7 @@
                         "librariesSearchPath": []
                     },
                     "miscellaneous": {
-                        "otherFlags": "--target=riscv32-unknown-elf",
+                        "otherFlags": "-menable-experimental-extensions --target=riscv32-unknown-elf",
                         "otherOptions": [],
                         "otherObjects": []
                     },
@@ -745,18 +745,21 @@
         "programArguments": "",
         "connectType": "simulator",
         "openOCDConfigurationId": "",
-        "boardConfigurationFile": "VB5Stages",
-        "simulatorArguments": "--stat"
+        "boardConfigurationFile": "",
+        "simulatorArguments": "",
+        "virtualBoard": "",
+        "virtualBoardSource": "Builtin",
+        "simulationLevel": "sim"
     },
     "profileConfiguration": {
         "programArguments": "",
         "boardConfigurationFile": "",
         "simulatorArguments": "",
-        "virtualBoard": "VB5Stages",
+        "virtualBoard": "",
         "profilingLevel": "3",
-        "override": "True",
-        "profilingDir": "${project_name}.zprof",
-        "profilingDirCollections": []
+        "override": "False",
+        "profilingDir": "",
+        "virtualBoardSource": "Builtin"
     },
     "debugConfiguration": {
         "programArguments": "",

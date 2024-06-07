@@ -30,7 +30,7 @@
         "name": "Debug on Board with ZDB",
         "id": "zdbBoard",
         "connectType": "board",
-        "type": "zdb-vscode",
+        "type": "zdb-dap",
         "request": "launch",
         "program": "${executablePath}",
         "args": [
@@ -53,7 +53,7 @@
         "name": "Debug on Simulator",
         "id": "zdbSimulator",
         "connectType": "simulator",
-        "type": "zdb-vscode",
+        "type": "zdb-dap",
         "request": "launch",
         "program": "${executablePath}",
         "args": [

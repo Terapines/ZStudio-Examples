@@ -1,0 +1,44 @@
+{
+    "name": "dhrystone",
+    "id": "8a6c53ec-1d23-4c33-a3a8-6275b5996efd",
+    "projects": [
+        {
+            "id": "90cca479-87d9-4741-ac39-9a10fbc284f8",
+            "name": "dhrystone",
+            "path": "../dhrystone/dhrystone.zsproj",
+            "references": []
+        },
+        {
+            "id": "9a1e8bba-65a4-4f25-884b-c0a5d859e0c8",
+            "name": "dhrystone_htif",
+            "path": "../dhrystone_htif/dhrystone_htif.zsproj",
+            "references": []
+        }
+    ],
+    "groups": [],
+    "solutionConfigurations": [
+        {
+            "value": "debug",
+            "label": "Debug"
+        },
+        {
+            "value": "release",
+            "label": "Release"
+        },
+        {
+            "value": "minSize",
+            "label": "Min Size"
+        },
+        {
+            "value": "releaseWithDebugInfo",
+            "label": "Release with Debug Information"
+        }
+    ],
+    "solutionPlatforms": [
+        {
+            "value": "risc-v",
+            "label": "RISC-V"
+        }
+    ],
+    "projectConfigurationPlatforms": []
+}
